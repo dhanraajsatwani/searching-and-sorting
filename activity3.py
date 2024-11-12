@@ -29,7 +29,7 @@ def generate_sorted_data(size):
         size (int): The size of the array to generate.
 
     Returns:
-        array.array: The sorted array of integers.
+        array: The sorted array of integers.
     """
     # Aiswarya part
     if size <= 100:
